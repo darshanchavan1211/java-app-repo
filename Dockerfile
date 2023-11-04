@@ -1,2 +1,2 @@
 FROM tomcat:latest
-COPY ./*.war /usr/local/tomcat/webapps/
+COPY java-tomcat-maven-example.war /usr/local/tomcat/webapps/
