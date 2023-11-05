@@ -1,2 +1,2 @@
 FROM openjdk
-COPY target/*.jar /
+COPY target/*.war /
